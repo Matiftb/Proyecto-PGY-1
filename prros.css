@@ -1,0 +1,26 @@
+.margen{
+    margin-top: 30px;
+   
+    
+}
+.fotos{
+    width: 400px;height: 400px;
+    
+    
+}
+
+.fuente{
+    font-size: 60px;
+    font-family:Berlin Sans FB;
+}
+
+body{
+    background-image: url('https://thumbs.dreamstime.com/b/fondo-con-huella-del-perro-67835230.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed
+    
+}
+
+
+

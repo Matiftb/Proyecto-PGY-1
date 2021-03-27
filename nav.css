@@ -1,0 +1,14 @@
+.nav_enlace{
+    background-color: gray;
+    color:black;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav_enlace:hover{
+    background:rgba(240, 141, 13, 0.87);
+}
+
+.fondiu{
+    font-size: 50px;
+    font-family:Berlin Sans FB ;
+}
