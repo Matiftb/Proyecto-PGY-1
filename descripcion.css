@@ -1,0 +1,97 @@
+h4{
+    background: #ec610a;
+    padding: 100px;
+}
+p{
+    background: beige;
+    padding: 100px;
+}
+.color2{
+    background: yellow;
+    margin: auto;
+    width: 80%;
+}
+.color3{
+    background: turquoise;
+    margin: auto;
+    width: 80%;
+}
+.h1color{
+    background: beige;
+    margin: auto;
+    width: 80%;
+}
+.menu{
+    width: 20%;
+    
+    
+    float: left;
+    height: 750px;
+    background-color: grey;
+    border: 0.px solid green;
+}
+.contenedor{
+    margin: auto;
+    width: 80%;
+    display: grid;
+    justify-content: space-around;
+    float: left;
+    height: 100%;
+}
+.contenedor_int{
+    margin: auto;
+    width: 100%;
+    display: grid;
+    float: left;
+    height: 150px;
+}
+.contenedor_cyan{
+    background-color: orange;
+    font-size: 20px;
+}
+.contenedor_amarillo{
+    background-color: yellow;
+    text-align: center;
+    font-size: 40px;
+}
+.contenedor_naranjo{
+    background-color: orange;
+    font-size: 20px;
+}
+.contenedor_rojo{
+    background-color: yellow;
+}
+.contenedor_blanco{
+    background-color: yellow;
+    font-size: 50px;
+    text-align:center;
+}
+nav{
+    margin: auto;
+    display: grid;
+    justify-content: space-around;
+    float: left;
+}
+.nav-enlace{
+    display: grid;
+    background-color:grey;
+    color:black;
+    padding: 80px 70px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    color:rgba(223, 145, 43, 0.87);
+}
+.fuente{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.fotos{
+    width: 350px;
+    height: 150px;
+    
+}
+.foto2{
+    width: 350px;
+    height: 150px;
+}
