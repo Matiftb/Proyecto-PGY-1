@@ -1,0 +1,20 @@
+.nav_enlace{
+    display: inline-block;
+    background-color: gray;
+    color:black;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav_enlace:hover{
+    background:rgba(240, 141, 13, 0.87);
+}
+
+nav{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.fondiu{
+    font-size: 50px;
+    font-family:Berlin Sans FB ;
+}
